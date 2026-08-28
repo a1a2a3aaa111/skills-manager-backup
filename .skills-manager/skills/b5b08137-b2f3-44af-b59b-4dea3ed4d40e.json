@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b5b08137-b2f3-44af-b59b-4dea3ed4d40e",
+  "path": "MK测试用例编写",
+  "path_key": "mk测试用例编写",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

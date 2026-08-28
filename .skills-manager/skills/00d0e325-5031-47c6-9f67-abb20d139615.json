@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "00d0e325-5031-47c6-9f67-abb20d139615",
+  "path": "MK功能清单编写",
+  "path_key": "mk功能清单编写",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
